@@ -16,13 +16,13 @@
 To perform data augmentation and preprocessing for the CNN and EfficientNetB0 model:
 
 1. Open `dataAugmentation.ipynb` for data augmentation.
-2. Open `dataPreprocessing_CNN_EfficientNetB0.ipynb` for data preprocessing.
+2. Open `dataPreprocessing_CNN_EfficientNetB0.ipynb` for data preprocessing and CNN model + EfficientNetB0 (A pre-trained model for Transfer Learning).
 
 ### Transfer Learning
 
 To train and evaluate the transfer learning models:
 
-1. Open `transfer learning.ipynb` for transfer learning using EfficientNetB0, ResNet50, and VGG16.
+1. Open `transfer learning.ipynb` for transfer learning using ResNet50, and VGG16.
 
 ### Model Evaluation
 
