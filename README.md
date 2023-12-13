@@ -33,5 +33,6 @@ The project achieves promising results in Martian frost detection, as shown in t
 
 - NASA Jet Propulsion Laboratory (JPL) for providing the Martian terrain dataset.
 - The project is a part of the final assessment for the DSCI 552 course on Machine Learning for Data Science at the University of Southern California (USC).
+- You can find the dataset (data.zip file) in https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=doi:10.48577/jpl.QJ9PYA
   
 Feel free to contribute or provide feedback!
