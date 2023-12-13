@@ -23,7 +23,6 @@ To perform data augmentation and preprocessing for the CNN and EfficientNetB0 mo
 To train and evaluate the transfer learning models:
 
 1. Open `transfer learning.ipynb` for transfer learning using ResNet50, and VGG16.
-2. 
 
 ## Results
 
